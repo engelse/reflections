@@ -17,3 +17,7 @@ permet de voir les differents commits de chaque branche
 
 What is the result of merging two branches together ? Why do we represent it in the diagram the way we do ?
 l'unification de 2 commits.
+
+What are the pros and cons of git's automatic merging vs always doing merge manually ?
+pour des petits changements la fusion automatique est rapide et sur, pour des changement plus important, le mode manuel est plus sur.
+pour ne pas avoir de probleme logique, le mode automatique est limite.
