@@ -14,3 +14,6 @@ utile lorsqu'on veut tester plusieurs version de l'application
 
 How do the diagrams help you visualize the branch structure ?
 permet de voir les differents commits de chaque branche
+
+What is the result of merging two branches together ? Why do we represent it in the diagram the way we do ?
+l'unification de 2 commits.
